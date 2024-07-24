@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">calculadoraimc</string>
+    <string name="preencha_todos_os_campos_para_calcular_seu_imc">Preencha todos os campos para calcular seu IMC</string>
+    <string name="a_classifica_o_do_seu_imc">A classificação do seu imc é:</string>
+    <string name="confirme_abaixo_o_resultado_do_imc_e_a_classifica_o">Confirme abaixo o resultado do IMC e a Classificação</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
 </resources>
